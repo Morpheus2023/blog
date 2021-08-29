@@ -1,0 +1,38 @@
+body{
+   margin:0px;
+   background-color:beige;
+   padding-top:65px;
+}
+.pad{
+    padding: 25px;
+}
+.header{
+    background-color:lightblue;
+    color:black;
+    height:100%;
+    font-size:36pt;
+    text-align: center;
+}
+.welcome{
+    background-color:gray;
+    color:white;
+    font-size:16pt;
+    height:40px;
+    margin:0px;
+    text-align:center;
+    font-size:25px;
+}
+.main-text{
+    float:left;
+    width:60%;
+    font-size: 20px;
+}
+.divs{
+    margin:5px;
+    width:35%;
+    border:4px solid lightblue;
+    float:left;
+    padding:10px;
+    text-align:center;
+}
+
